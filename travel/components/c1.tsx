@@ -6,7 +6,7 @@ export default function C1() {
         <div className="relative">
             <img className="w-full h-[84vh] object-cover" src="https://images.pexels.com/photos/1525041/pexels-photo-1525041.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Beautiful Mountains"/>
             <div className="absolute inset-0 flex flex-col items-center justify-center bg-black/40 text-center px-4">
-                <h1 className="text-[rgb(178,255,255)] text-4xl md:text-6xl font-bold drop-shadow-lg">
+                <h1 className="text-[rgb(178,255,255)] text-4xl md:text-7xl font-bold drop-shadow-lg">
                     {text.split("").map((char, index) => (
                         <span 
                             key={index} 

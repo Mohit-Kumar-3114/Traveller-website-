@@ -11,10 +11,10 @@ export default function Navbar() {
 
      
       <div className="hidden md:flex space-x-8 font-sans text-lg  text-sky-950  px-10">
-        <a href="" className="hover:text-sky-400 transition">Tours</a>
+        <a href="#c5" className="hover:text-sky-400 transition">Tours</a>
         <a href="#c2" className="hover:text-sky-400 transition">Personalized Travel</a>
         <a href="" className="hover:text-sky-400 transition">Our Story</a>
-        <a href="" className="hover:text-sky-400 transition">Contact Us</a>
+        <a href="#c7" className="hover:text-sky-400 transition">Contact Us</a>
       </div>
     </nav>
   );
