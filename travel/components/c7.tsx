@@ -22,7 +22,7 @@ export default function C7() {
       <div className="flex flex-col md:flex-row items-center justify-center py-10 px-6 md:px-20 space-y-6 md:space-y-0 md:space-x-32">
         <div className="flex flex-col items-center md:items-start text-center md:text-left ">
           <img
-            src="https://files.oaiusercontent.com/file-YFygq5jx3p8EB19e5p6pVC?se=2025-03-24T17%3A14%3A33Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D1afdcd87-6e41-40fb-9a51-d89b5c94407d.webp&sig=QPsQmyuGGbYNBpAEpC44jxMXr8KGUnVU9WJZGOlbqGM%3D" 
+            src="https://files.oaiusercontent.com/file-QTpBBrw2qw7nFd99BmV6Mk?se=2025-03-24T17%3A21%3A14Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D57957e32-9c54-4b8e-b5d8-08c43d051436.webp&sig=pBcYweorrFKuYTKVI2h2UwruH3mia7BRCaiv3hkclzo%3D" 
             alt="Himalens Logo"
             className="w-40 h-40 object-contain"
           />
