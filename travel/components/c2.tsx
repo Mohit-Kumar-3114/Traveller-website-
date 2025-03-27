@@ -8,7 +8,8 @@ export default function C2() {
           <span className=" text-sky-950 ">Personalised Travel</span> <span>by HIMALE<span className="text-sky-400">∩</span>S</span>
         </h3>
         <h2 className="text-4xl font-bold text-sky-950 mt-1">
-        unique adventures for curious explorers
+        unique adventures f
+            or curious explorers
         </h2>
         <p className=" text-sm md:text-lg mt-4 px-28">
         Immerse yourself in the essence of cultural travel—connecting with nature, people, food, language, traditions, and wildlife in every moment, creating memories that last a lifetime.
